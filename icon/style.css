@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?okfhmv');
-  src:  url('fonts/icomoon.eot?okfhmv#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?okfhmv') format('truetype'),
-    url('fonts/icomoon.woff?okfhmv') format('woff'),
-    url('fonts/icomoon.svg?okfhmv#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?bfqtx2');
+  src:  url('fonts/icomoon.eot?bfqtx2#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?bfqtx2') format('truetype'),
+    url('fonts/icomoon.woff?bfqtx2') format('woff'),
+    url('fonts/icomoon.svg?bfqtx2#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,111 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-like_border0:before {
+  content: "\eda8";
+  color: #999;
+}
+.icon-like_border1:before {
+  content: "\eda9";
+  color: #e93223;
+}
+.icon-check_availability .path1:before {
+  content: "\ed94";
+  color: rgb(205, 42, 0);
+}
+.icon-check_availability .path2:before {
+  content: "\ed95";
+  margin-left: -1em;
+  color: rgb(205, 42, 0);
+}
+.icon-check_availability .path3:before {
+  content: "\ed96";
+  margin-left: -1em;
+  color: rgb(216, 215, 218);
+}
+.icon-check_availability .path4:before {
+  content: "\ed97";
+  margin-left: -1em;
+  color: rgb(255, 53, 1);
+}
+.icon-check_availability .path5:before {
+  content: "\ed98";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-check_availability .path6:before {
+  content: "\ed99";
+  margin-left: -1em;
+  color: rgb(0, 94, 206);
+}
+.icon-check_availability .path7:before {
+  content: "\ed9a";
+  margin-left: -1em;
+  color: rgb(70, 248, 255);
+}
+.icon-check_availability .path8:before {
+  content: "\ed9b";
+  margin-left: -1em;
+  color: rgb(155, 251, 255);
+}
+.icon-check_availability .path9:before {
+  content: "\ed9c";
+  margin-left: -1em;
+  color: rgb(36, 136, 255);
+}
+.icon-check_host .path1:before {
+  content: "\ed9d";
+  color: rgb(205, 42, 0);
+}
+.icon-check_host .path2:before {
+  content: "\ed9e";
+  margin-left: -1em;
+  color: rgb(216, 215, 218);
+}
+.icon-check_host .path3:before {
+  content: "\ed9f";
+  margin-left: -1em;
+  color: rgb(255, 53, 1);
+}
+.icon-check_host .path4:before {
+  content: "\eda0";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-check_host .path5:before {
+  content: "\eda1";
+  margin-left: -1em;
+  color: rgb(255, 218, 68);
+}
+.icon-check_host .path6:before {
+  content: "\eda2";
+  margin-left: -1em;
+  color: rgb(255, 205, 0);
+}
+.icon-check_host .path7:before {
+  content: "\eda3";
+  margin-left: -1em;
+  color: rgb(36, 136, 255);
+}
+.icon-fire .path1:before {
+  content: "\eda4";
+  color: rgb(255, 101, 54);
+}
+.icon-fire .path2:before {
+  content: "\eda5";
+  margin-left: -1em;
+  color: rgb(255, 66, 29);
+}
+.icon-fire .path3:before {
+  content: "\eda6";
+  margin-left: -1em;
+  color: rgb(251, 191, 0);
+}
+.icon-fire .path4:before {
+  content: "\eda7";
+  margin-left: -1em;
+  color: rgb(255, 169, 0);
+}
 .icon-arrow_right2:before {
   content: "\ed92";
   color: #fff;
